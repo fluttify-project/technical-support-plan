@@ -20,7 +20,7 @@ v0.0.1 by [yohom](https://github.com/yohom)
 
 > 可以直接在method channel传递的类型称为*简单类型*，其他的称为*复合类型*, 具体定义见[Flutter官方文档](https://flutter.dev/docs/development/platform-integration/platform-channels#codec).
 > 
-> 最终价格 = 基础 50¥/个 + (简单参数个数 × 20¥/个) + (简单返回值个数 × 20¥/个) + (复合参数个数 × 50¥/个) + (复合返回值个数 × 50¥/个)
+> 最终价格 = 基础 ¥50 + (简单参数个数 × 20¥/个) + (简单返回值个数 × 20¥/个) + (复合参数个数 × 50¥/个) + (复合返回值个数 × 50¥/个)
 > 
 比如现有一个待实现的Java方法签名如下:
 
