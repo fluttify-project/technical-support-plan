@@ -22,9 +22,9 @@ v0.0.1 by [yohom](https://github.com/yohom)
 > 
 > 最终价格 = 基础 ¥50 + (简单参数个数 × 20¥/个) + (简单返回值个数 × 20¥/个) + (复合参数个数 × 50¥/个) + (复合返回值个数 × 50¥/个)
 > 
-比如现有一个待实现的Java方法签名如下:
+比如现有一个待实现的Dart方法签名如下:
 
-```String exampleMethod(SomeSDKClass object);```
+```String exampleMethod(SomeClass object);```
 
 那么需要:
 
