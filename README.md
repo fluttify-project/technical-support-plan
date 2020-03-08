@@ -36,7 +36,7 @@ v0.0.1 by [yohom](https://github.com/yohom)
 
 其他类型方法以此类推.
 
-### 业务功能实现 ¥200+
+### 业务功能参考实现 ¥200+
 - 业务功能实现指特定业务场景下的功能组合, 比如微信的发送位置功能, 需要配合搜索插件和地图插件来实现, 本方案提供参考实现.
 - 根据业务复杂度确认不同的费用, 确认功能后在[support](https://github.com/fluttify-project/support)新建issue跟踪完成情况.
 
