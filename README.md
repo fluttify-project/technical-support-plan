@@ -25,9 +25,9 @@ v0.0.1 by [yohom](https://github.com/yohom)
 比如现有一个待实现的Dart方法签名如下:
 
 ```
-(简单返回值)           (复合参数)        (简单参数)
-    ↓                    ↓                ↓
-String exampleMethod(SomeClass object, String string);
+(简单返回值)           (复合参数)         (简单参数)
+    ↓                    ↓                 ↓
+ String exampleMethod(SomeClass object, String string);
 ```
 
 那么需要:
