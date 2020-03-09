@@ -2,6 +2,8 @@
 
 v0.0.1-pre3 by [yohom](https://github.com/yohom)
 
+[English Version](https://github.com/fluttify-project/technical-support-plan/blob/master/README_en.md)
+
 ## 基本说明
 - 先解决后收费.
 - 不解决不收费.
