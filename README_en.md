@@ -1,5 +1,5 @@
 Technical Support Plan for Fluttify Project
-V0.0.1-pre1 by [yohom] (https://github.com/yohom)
+V0.0.1-pre3 by [yohom] (https://github.com/yohom)
 
 ## Basic instructions
 - Settle first, charge later.
