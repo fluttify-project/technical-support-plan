@@ -1,5 +1,6 @@
 Technical Support Plan for Fluttify Project
-V0.0.1-pre3 by [yohom] (https://github.com/yohom)
+
+v0.0.1-pre3 by [yohom](https://github.com/yohom)
 
 ## Basic instructions
 - Settle first, charge later.
@@ -9,14 +10,14 @@ V0.0.1-pre3 by [yohom] (https://github.com/yohom)
 
 ## How do I initiate a technical support request?
 - Please file a new issue in the [technical-support-plan]((https://github.com/fluttify-project/technical-support-plan/issues/new?assignees=yohom&labels=&template=------.md&title=)) repository according to the template to initiate the technical support request.
-- Contact [yohom] (https://github.com/yohom), email yohombao@qq.com, or add qq group 938842596.
+- Contact [yohom](https://github.com/yohom), email yohombao@qq.com, or add qq group 938842596.
 - After the technical support request is approved, the issue is moved to the corresponding plug-in repository and progress is tracked under this issue.
 
 ## Plans
 ### Consultation ¥50
 - The package is valid from the consultation time on the first day to the same time on the next day.
 
-### Bug fixed ¥100+
+### Bug fix ¥100+
 - Confirm different costs according to the difficulty of bug repair.
 
 ### New features

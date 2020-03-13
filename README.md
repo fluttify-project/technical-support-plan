@@ -1,5 +1,8 @@
 # Fluttify相关项目技术支持方案 
-v0.0.1-pre3 by [yohom](https://github.com/yohom)
+
+v0.0.1-pre4 by [yohom](https://github.com/yohom)
+
+[English Version](https://github.com/fluttify-project/technical-support-plan/blob/master/README_en.md)
 
 ## 基本说明
 - 先解决后收费.
@@ -14,7 +17,8 @@ v0.0.1-pre3 by [yohom](https://github.com/yohom)
 
 ## 方案
 ### 纯咨询 ¥50
-- 包天 从当日开始咨询时刻到次日相同时刻有效.
+- 包天 从当日确认开始咨询时刻到次日相同时刻有效.
+- 确认开始咨询的标记是**当支持方在issue下添加`咨询开始`评论时开始**.
 
 ### Bug修复 ¥100+
 - 根据bug修复难度确认不同的费用.
@@ -45,7 +49,7 @@ v0.0.1-pre3 by [yohom](https://github.com/yohom)
 
 ### 新插件开发
 - 新插件开发需要先生成插件, 插件生成完成后会上传到[组织](https://github.com/fluttify-project). 后续新功能请求可以走`新功能`方案.
-- 插件生成费用按接口数计算, 单价 0.1元/方法 . 参考价格 [amap_map_fluttify](https://github.com/fluttify-project/amap_map_fluttify)纯生成代码计算价格结果为**270.5**元, [amap_location_fluttify](https://github.com/fluttify-project/amap_location_fluttify)为**32.7**元.
+- 插件生成费用按接口数计算, 单价 0.1元/方法 . 参考价格 [amap_map_fluttify](https://github.com/fluttify-project/amap_map_fluttify)编译结果为**2705**个方法, **485**个属性, **481**个常量, 共计 **367.1** 元, [amap_location_fluttify](https://github.com/fluttify-project/amap_location_fluttify)编译结果为**327**个方法, **60**个属性, **66**个常量, 共计 **45.3** 元.
 
 ### 悬赏模式
 后期条件允许可以开放悬赏模式, 即以上技术支持方案所有人都可以作为支持方参与.
