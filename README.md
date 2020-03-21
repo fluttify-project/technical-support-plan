@@ -1,6 +1,6 @@
 # Fluttify相关项目技术支持方案 
 
-v0.0.1-pre5 by [yohom](https://github.com/yohom)
+v0.0.1-pre6 by [yohom](https://github.com/yohom)
 
 [English Version](https://github.com/fluttify-project/technical-support-plan/blob/master/README_en.md)
 
@@ -8,6 +8,7 @@ v0.0.1-pre5 by [yohom](https://github.com/yohom)
 - 先解决后收费.
 - 不解决不收费.
 - 已解决不付费拉黑.
+- 为了提高效率, 咨询会辅助使用(类似)TeamViewer的工具远程协助方式进行, 请先在本地准备好TeamViewer工具.
 - 已确认的工单(bug, 新功能等)会按最高优先级处理, 付费工单内部优先级按时间先后顺序排列.
 
 ## 如何发起技术支持请求
@@ -16,8 +17,9 @@ v0.0.1-pre5 by [yohom](https://github.com/yohom)
 - 技术支持请求通过后, 会把issue转移到对应插件仓库下, 并在此issue下跟踪进度.
 
 ## 方案
-### 纯咨询 ¥50
-- 包天 从当日确认开始咨询时刻到次日相同时刻有效.
+### 咨询 ¥100/4
+- 咨询费用为 *¥25/个* 问题, *¥100(4个问题)*起付, 4个问题不限时间提问, 也就是说你可以今天问一天问题, 一个月后再问另一个问题.
+- 咨询过程(是否解决, 第几个问题等)将在[technical-support-plan](https://github.com/fluttify-project/technical-support-plan/issues/new?assignees=yohom&labels=&template=------.md&title=)内记录.
 - 确认开始咨询的标记是**当支持方在issue下添加`咨询开始`评论时开始**.
 
 ### Bug修复 ¥100+
