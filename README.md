@@ -51,7 +51,7 @@ v0.0.1-pre6 by [yohom](https://github.com/yohom)
 
 ### 新插件开发
 - 新插件开发需要先生成插件, 插件生成完成后会上传到[组织](https://github.com/fluttify-project). 后续新功能请求可以走`新功能`方案.
-- 插件生成费用为(基础价格+接口数)计算, 基础价格 ¥500, 单价 0.1元/接口 . 参考价格 [amap_map_fluttify](https://github.com/fluttify-project/amap_map_fluttify)编译结果为**2705**个方法, **485**个属性, **481**个常量, 共计 **500 + 367.1 = 967.1** 元, [amap_location_fluttify](https://github.com/fluttify-project/amap_location_fluttify)编译结果为**327**个方法, **60**个属性, **66**个常量, 共计 **500 + 45.3 = 545.3** 元.
+- 插件生成费用为固定价格 ¥1000.
 
 ### 悬赏模式
 后期条件允许可以开放悬赏模式, 即以上技术支持方案所有人都可以作为支持方参与.
