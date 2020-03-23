@@ -1,6 +1,6 @@
 # Fluttify相关项目技术支持方案 
 
-v0.0.1-pre7 by [yohom](https://github.com/yohom)
+v0.0.1-pre8 by [yohom](https://github.com/yohom)
 
 [English Version](https://github.com/fluttify-project/technical-support-plan/blob/master/README_en.md)
 
@@ -14,14 +14,13 @@ v0.0.1-pre7 by [yohom](https://github.com/yohom)
 ## 如何发起技术支持请求
 - 请在[technical-support-plan](https://github.com/fluttify-project/technical-support-plan/issues/new?assignees=yohom&labels=&template=------.md&title=)仓库*按模板*新建issue来发起技术支持请求.
 - 通过各种方式联系到[yohom](https://github.com/yohom), 邮件 yohombao@qq.com, 或者加qq群 938842596.
-- 技术支持请求通过后, 会把issue转移到对应插件仓库下, 并在此issue下跟踪进度.
 
 ## 方案
 ### 咨询 ¥100/4
 - 咨询费用为 *¥25/个* 问题, *¥100(4个问题)*起付, 4个问题不限时间提问, 也就是说你可以今天问一天问题, 一个月后再问另一个问题.
 - 咨询过程(是否解决, 第几个问题等)将在[technical-support-plan](https://github.com/fluttify-project/technical-support-plan/issues/new?assignees=yohom&labels=&template=------.md&title=)内记录.
 
-### Bug修复 ¥100+
+### Bug修复
 - 根据bug修复难度确认不同的费用.
 
 ### 新功能
