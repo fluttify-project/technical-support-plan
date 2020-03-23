@@ -14,7 +14,6 @@ v0.0.1-pre8 by [yohom](https://github.com/yohom)
 ## 如何发起技术支持请求
 - 请在[technical-support-plan](https://github.com/fluttify-project/technical-support-plan/issues/new?assignees=yohom&labels=&template=------.md&title=)仓库*按模板*新建issue来发起技术支持请求.
 - 通过各种方式联系到[yohom](https://github.com/yohom), 邮件 yohombao@qq.com, 或者加qq群 938842596.
-- 技术支持请求通过后, 会把issue转移到对应插件仓库下, 并在此issue下跟踪进度.
 
 ## 方案
 ### 咨询 ¥100/4
