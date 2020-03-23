@@ -20,7 +20,6 @@ v0.0.1-pre7 by [yohom](https://github.com/yohom)
 ### 咨询 ¥100/4
 - 咨询费用为 *¥25/个* 问题, *¥100(4个问题)*起付, 4个问题不限时间提问, 也就是说你可以今天问一天问题, 一个月后再问另一个问题.
 - 咨询过程(是否解决, 第几个问题等)将在[technical-support-plan](https://github.com/fluttify-project/technical-support-plan/issues/new?assignees=yohom&labels=&template=------.md&title=)内记录.
-- 确认开始咨询的标记是**当支持方在issue下添加`咨询开始`评论时开始**.
 
 ### Bug修复 ¥100+
 - 根据bug修复难度确认不同的费用.
