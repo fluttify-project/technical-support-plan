@@ -1,6 +1,6 @@
 # Fluttify相关项目技术支持方案 
 
-v0.0.1-pre8 by [yohom](https://github.com/yohom)
+v0.0.1-pre9 by [yohom](https://github.com/yohom)
 
 [English Version](https://github.com/fluttify-project/technical-support-plan/blob/master/README_en.md)
 
