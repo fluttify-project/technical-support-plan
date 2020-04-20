@@ -1,6 +1,6 @@
 # Fluttify相关项目技术支持方案 
 
-v0.0.1-pre9 by [yohom](https://github.com/yohom)
+v0.1.0 by [yohom](https://github.com/yohom)
 
 [English Version](https://github.com/fluttify-project/technical-support-plan/blob/master/README_en.md)
 
@@ -16,11 +16,6 @@ v0.0.1-pre9 by [yohom](https://github.com/yohom)
 - 通过各种方式联系到[yohom](https://github.com/yohom), 邮件 yohombao@qq.com, 或者加qq群 938842596.
 
 ## 方案
-### 咨询
-- Fluttify项目咨询: 只要是对我写的代码进行咨询, 那么 ¥100/4个 起付, 4个问题不限时间提问, 也就是说你可以今天问一天问题, 一个月后再问另一个问题.
-- 非Fluttify项目咨询: 如果不是我的写的代码, 那么费用依具体情况判定.
-- 咨询过程(是否解决, 第几个问题等)将在[technical-support-plan](https://github.com/fluttify-project/technical-support-plan/issues/new?assignees=yohom&labels=&template=------.md&title=)内记录.
-
 ### Bug修复
 - 根据bug修复难度确认不同的费用.
 
@@ -51,8 +46,3 @@ v0.0.1-pre9 by [yohom](https://github.com/yohom)
 ### 新插件开发
 - 新插件开发需要先生成插件, 插件生成完成后会上传到[组织](https://github.com/fluttify-project). 后续新功能请求可以走`新功能`方案.
 - 插件生成费用为固定价格 ¥1000.
-
-### 悬赏模式
-后期条件允许可以开放悬赏模式, 即以上技术支持方案所有人都可以作为支持方参与.
-
-使用者(user)能够快速解决问题, 贡献者(contributor)能够获得报酬, 拥有者(owner)能够持续迭代项目. 这也是我对开源社区健康发展的一个愿景 :) .
