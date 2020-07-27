@@ -4,13 +4,6 @@ v0.1.0 by [yohom](https://github.com/yohom)
 
 [English Version](https://github.com/fluttify-project/technical-support-plan/blob/master/README_en.md)
 
-## 基本说明
-- 先解决后收费.
-- 不解决不收费.
-- 已解决不付费拉黑.
-- 为了提高效率, 咨询会辅助使用(类似)TeamViewer的工具远程协助方式进行, 请先在本地准备好TeamViewer工具.
-- 已确认的工单(bug, 新功能等)会按最高优先级处理, 付费工单内部优先级按时间先后顺序排列.
-
 ## 如何发起技术支持请求
 - 请在[technical-support-plan](https://github.com/fluttify-project/technical-support-plan/issues/new?assignees=yohom&labels=&template=------.md&title=)仓库*按模板*新建issue来发起技术支持请求.
 - 通过各种方式联系到[yohom](https://github.com/yohom), 邮件 yohombao@qq.com, 或者加qq群 938842596.
